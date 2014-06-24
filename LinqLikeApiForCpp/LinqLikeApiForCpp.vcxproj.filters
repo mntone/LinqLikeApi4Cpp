@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="LinqLikeApiForCpp.cpp" />
+    <ClCompile Include="pch.cpp" />
+    <ClCompile Include="TestFramework.cpp" />
+    <ClCompile Include="BasicCalc.cpp" />
+    <ClCompile Include="Filtering.cpp" />
+    <ClCompile Include="BasicOperation.cpp" />
+    <ClCompile Include="Conversion.cpp" />
+    <ClCompile Include="Getter.cpp" />
+    <ClCompile Include="ConditionalJudgement.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="linq.hpp" />
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="TestFramework.h" />
+  </ItemGroup>
+</Project>
